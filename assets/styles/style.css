@@ -161,7 +161,7 @@ img{
 /* END HEADER SECTION*/
 /*HERO SECTION*/
 #hero{
-  background-image: url(/assets/img/Banner-A.jpg);
+  background-image: url(../img/Banner-A.jpg);
   background-size: cover;
   background-position: top center;
   position: relative;
