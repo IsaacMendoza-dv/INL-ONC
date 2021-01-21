@@ -10,7 +10,7 @@ body{
   font-family: 'Fira Sans', sans-serif;
 }
 a { 
-  text-decoration: none;
+  text-decoration: none !important;
 }
 .container{
   min-height: 100vh;
@@ -49,6 +49,11 @@ img{
 	max-width: 1300px;
 	padding: 0 10px;
 }
+
+#header .nav-bar .main-title{
+	color: white;
+}
+
 #header .nav-list ul {
 	list-style: none;
 	position: absolute;
